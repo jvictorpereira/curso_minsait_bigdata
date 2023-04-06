@@ -1,4 +1,4 @@
-# Desafio Big Data/BI MINSAIT oi
+# Desafio Big Data/BI MINSAIT
 ![header](https://user-images.githubusercontent.com/102594213/230445487-7cf1c318-5f58-4613-bf06-b99b3eee3f14.jpg)
 
 
