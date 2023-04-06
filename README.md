@@ -1,4 +1,4 @@
-#Desafio Big Data/BI
+#Desafio Big Data/BI oi
 Este repositório contém o código desenvolvido para o Desafio Big Data/BI. O objetivo do desafio era realizar a ingestão de dados de uma pasta /raw com alguns arquivos .csv de um banco relacional de vendas e fornecer dados em uma pasta desafio_curso/gold em formato .csv para serem consumidos por um relatório em PowerBI.
 
 #Tecnologias utilizadas
